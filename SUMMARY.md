@@ -1,6 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
+* Curl
+  * [Binary Streams](curl/binary_streams.md)
 * General
   * [The Silver Searcher](general/ag_search-tool.md)
 * Node.js
@@ -8,4 +10,3 @@
   * [.npmignore](nodejs/npmignore.md)
 * VIM
   * [Pretty JSON](vim/pretty-json-in-vim.md)
-
