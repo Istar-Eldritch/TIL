@@ -11,4 +11,4 @@ I created this as a personal spin-off of the well kown [TIL from @thoughtbot](ht
 
 ## License
 
-The content of this project itself is licensed under the [Creative Commons Attribution 4.0 license](http://creativecommons.org/licenses/by-sa/4.0), and the underlying source code used as examples and to format and display that content is licensed under the [MIT license](MIT_LICENSE.txt).
+The content of this project itself is licensed under the [Creative Commons Attribution-ShareAlike 4.0 license](http://creativecommons.org/licenses/by-sa/4.0), and the underlying source code used as examples and to format and display that content is licensed under the [MIT license](MIT_LICENSE.md).
