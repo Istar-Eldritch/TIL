@@ -2,11 +2,11 @@
 
 * [Introduction](README.md)
 * Curl
-  * [Binary Streams](curl/binary_streams.md)
+  * [Binary Streams](content/curl/binary_streams.md)
 * General
-  * [The Silver Searcher](general/ag_search-tool.md)
+  * [The Silver Searcher](content/general/ag_search-tool.md)
 * Node.js
-  * [Creating CLI Tools](nodejs/create-cli-tools.md)
-  * [.npmignore](nodejs/npmignore.md)
+  * [Creating CLI Tools](content/nodejs/create-cli-tools.md)
+  * [.npmignore](content/nodejs/npmignore.md)
 * VIM
-  * [Pretty JSON](vim/pretty-json-in-vim.md)
+  * [Pretty JSON](content/vim/pretty-json-in-vim.md)
