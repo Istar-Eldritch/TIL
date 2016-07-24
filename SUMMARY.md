@@ -1,6 +1,6 @@
 # Summary
 
 * [Binary Streams](curl/binary_streams.md)
-* [Curl](curl)
+* [Curl](curl/binary_streams.md)
    * Binary Streams
 
